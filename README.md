@@ -1,2 +1,2 @@
 # NN
-Neural Network(primary)
+Neural Networks(primary)
